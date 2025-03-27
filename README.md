@@ -16,3 +16,11 @@ git clone [https://github.com/your-username/Privilege-Escalation-Detector.git](h
 cd Privilege-Escalation-Detector
 pip install -r requirements.txt
 python DB.py
+
+## 📸 Screenshots
+
+### 🔍 Dashboard View
+![Security Dashboard](![Image](https://github.com/user-attachments/assets/a1fee8c4-53d4-448d-be22-afa49c5dd4fc))
+
+### 🚨 Email Alert Example
+![Email Alert](![Image](https://github.com/user-attachments/assets/357dc76d-76e6-44e2-bd05-86fcb739719a))
