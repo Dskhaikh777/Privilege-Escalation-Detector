@@ -24,9 +24,9 @@ SUSPICIOUS_PATTERNS = [
 # Email Configuration (Replace with your own details)
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
-EMAIL_SENDER = "dskhaikh786@gmail.com"  # Your email address
-EMAIL_PASSWORD = "nlohsycbhqpxksel"  # Use an app password for security
-EMAIL_RECEIVER = "dskhaikh786@gmail.com"  # Recipient email (can be the same)
+EMAIL_SENDER = "Sender_Email"  # Your email address
+EMAIL_PASSWORD = "App_Password"  # Use an app password for security
+EMAIL_RECEIVER = "Receiver_Email"  # Recipient email (can be the same)
 
 # Function to setup the SQLite database
 def setup_database():
