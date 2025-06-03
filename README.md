@@ -10,13 +10,6 @@ This project detects **privilege escalation attempts** in real-time by scanning 
 ✅ **Downloadable daily security reports**  
 ✅ **Cross-platform support (Windows & Linux)**  
 
-## 🚀 Installation
-```bash
-git clone [https://github.com/your-username/Privilege-Escalation-Detector.git](https://github.com/Dskhaikh777/Privilege-Escalation-Detector.git)
-cd Privilege-Escalation-Detector
-pip install -r requirements.txt
-python DB.py
-
 ## 📸 Screenshots
 
 ### 🔍 Dashboard View
@@ -24,3 +17,10 @@ python DB.py
 
 ### 🚨 Email Alert Example
 ![Email Alert](![Image](https://github.com/user-attachments/assets/357dc76d-76e6-44e2-bd05-86fcb739719a))
+
+## 🚀 Installation
+```bash
+git clone [https://github.com/your-username/Privilege-Escalation-Detector.git](https://github.com/Dskhaikh777/Privilege-Escalation-Detector.git)
+cd Privilege-Escalation-Detector
+pip install -r requirements.txt
+python DB.py
